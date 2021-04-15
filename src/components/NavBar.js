@@ -42,7 +42,7 @@ export default function NavBar() {
         </nav>
         <div className="inline-flex py-3 px-3 my-6">
             <SocialIcon url="https://twitter.com/AkaljotG" className="mr-4" target="_blank" fgColor="#fff" style={{height: 35, width: 35}} />
-            <SocialIcon url="https://www.instagram.com/akaljotg/" className="mr-4" target="_blank" fgColor="#fff" style={{height: 35, width: 35}} />
+            <SocialIcon url="https://www.instagram.com/akaljotg.js/" className="mr-4" target="_blank" fgColor="#fff" style={{height: 35, width: 35}} />
             <SocialIcon url="https://www.linkedin.com/in/akaljot-g-67178b9b/" className="mr-4" target="_blank" fgColor="#fff" style={{height: 35, width: 35}} />
         </div>
       </div>
